@@ -1,0 +1,26 @@
+body {
+    font-family: "Poppins", sans-serif;
+}
+  
+.centrado {
+    text-align: center;
+}
+
+.menu{
+    height: 20px;
+    text-align: center;
+}
+
+.menu ul{
+    list-style: none;
+    display:inline-block;
+    background-color: gold;
+ }
+
+ .menu ul li{
+     float: left;
+     margin-top: 0px;
+     display: block;
+     padding: 5px 30px;
+ }
+
